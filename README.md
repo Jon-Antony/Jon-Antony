@@ -2,6 +2,7 @@
 I'm a programming student since 2023, currently focused on front end
 
 :computer: I'm Front-End Developer!
+
 :house_with_garden: I’m from Brazil.
 
 <div>
