@@ -1,6 +1,4 @@
-# 👋 Hello, My name is Jonathan Antony!
-## Welcome to my Github profile.
-
+## Hello and welcome to my Github profile! My name is Jonathan Antony! 👋
 I'm a programming student since 2023, currently focused on front end
 
 <div>
