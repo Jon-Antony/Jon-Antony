@@ -1,10 +1,8 @@
 # Hello World, I'm Jonathan Antony! 👋
-I'm a programming student since 2023, currently focused on front end
-##
 :computer: Front-End Developer!
 
 :house_with_garden: Brazil.
-
+##
 <div>
 <a href="https://github.com/Jon-Antony">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-Antony&layout=compact&langs_count=7&theme=dracula"/>
