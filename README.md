@@ -1,9 +1,9 @@
 # Hello World, I'm Jonathan Antony! 👋
 I'm a programming student since 2023, currently focused on front end
+##
+:computer: Front-End Developer!
 
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Brazil.
 
 <div>
 <a href="https://github.com/Jon-Antony">
