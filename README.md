@@ -2,7 +2,6 @@
 :computer: Front-End Developer!
 
 :house_with_garden: Brazil.
-##
 <div>
 <a href="https://github.com/Jon-Antony">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon-Antony&layout=compact&langs_count=7&theme=dracula"/>
